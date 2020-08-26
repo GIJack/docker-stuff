@@ -1,2 +1,4 @@
 # docker-stuff
-Playing around with docker
+A few docker configs
+
+hello_world - Example docker VM. Debian based
