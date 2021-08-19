@@ -18,4 +18,4 @@ RUN export uid=1000 gid=1000 && \
 # set up and run firefox
 USER firefox
 ENV HOME /home/firefox
-CMD /opt/start_firefox.sh
+ENTRYPOINT '/opt/start_firefox.sh'
