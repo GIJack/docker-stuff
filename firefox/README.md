@@ -16,7 +16,7 @@ rolling release will always be the latest version of firefox.
 
 to compile
 ```
-docker build . -t "firefox-arch"
+docker build . -t "firefox_archlinux"
 ```
 
 to run
